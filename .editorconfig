@@ -1,0 +1,7 @@
+root = true
+
+[*.{cpp,h}]
+charset = utf-8-bom
+
+[CMakeLists.txt]
+charset = utf-8
